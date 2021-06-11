@@ -2,5 +2,5 @@
  layout : tytuł slajdu
  : " Witamy na naszym drugim slajdzie ! "
 ---
-Twój tekst 
+"Ludzie są niczym. Człowiek jest wszystkim!" Napoleon
 Użyj strzałki w lewo, aby wrócić!
